@@ -110,8 +110,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/AgroSoft.git
-   cd AgroSoft
+   git clone https://github.com/your-username/Agrosoft.git
+   cd Agrosoft
    ```
 
 2. **Install dependencies**
