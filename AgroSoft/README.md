@@ -110,7 +110,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Agrosoft.git
+   git clone https://github.com/prashanthsword/Agrosoft.git
    cd Agrosoft
    ```
 
